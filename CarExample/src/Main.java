@@ -1,13 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        Car audi = new Car();
-        audi.model = "audi" ;
-        audi.speed = 10;
-        audi.color = "red";
-        audi.type = "Sedan" ;
+        Car audi = new Car("Audi",10,"Red");
         audi.increaseSpeed(20);
         audi.carFeatures();
-
+        //constructor method used.
 
         Car bmw = new Car();
         bmw.model = "Bmw" ;
@@ -19,7 +15,7 @@ public class Main {
         bmw.increaseSpeed(10);
         bmw.increaseSpeed(25);
         bmw.carFeatures();
-
+        //overriding
 
         Car mercedes = new Car();
         mercedes.model = "mercedes" ;
