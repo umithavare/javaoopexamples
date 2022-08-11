@@ -4,13 +4,15 @@ public class Lesson {
     String code;
     String prefix;
     int note;
+    int opinionNote;
 
     Lesson(String name, String code, String prefix){
         this.name = name;
         this.code = code;
         this.prefix = prefix;
         this.teacher = teacher;
-        int note = 0;
+        this.note = 0;
+        this.opinionNote = 0;
     }
     void addTeacher(Teacher teacher){
         if (teacher.branch.equals(this.prefix)){

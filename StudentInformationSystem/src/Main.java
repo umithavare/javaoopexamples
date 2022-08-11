@@ -13,9 +13,11 @@ public class Main {
         music.addTeacher(t2);
         Student s1 = new Student("Elon Musk","0931","4",math,biology,music);
         s1.addBulkExam(54,87,35);
+        s1.addBulkOpinionNote(10,100,100);
         s1.isPass();
         Student s2 = new Student("Arda Guler","1010","1",math,biology,music);
         s2.addBulkExam(60,75,85);
+        s2.addBulkOpinionNote(100,100,50);
         s2.isPass();
     }
 }
