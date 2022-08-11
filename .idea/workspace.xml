@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c0a69e9-c366-4031-91ec-c6e4a79d0c23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentInformationSystem/src/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentInformationSystem/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentInformationSystem/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentInformationSystem/src/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarExample/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/CarExample/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarExample/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CarExample/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
     "last_opened_file_path": "C:/Users/umith/IdeaProjects/javaoopexamples",
@@ -50,7 +56,14 @@
       <recent name="C:\Users\umith\IdeaProjects\javaoopexamples\Examples" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StudentInformationSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CarExample" />
@@ -60,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -73,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660050426156</updated>
       <workItem from="1660050427710" duration="29000" />
-      <workItem from="1660050495203" duration="7137000" />
+      <workItem from="1660050495203" duration="7286000" />
+      <workItem from="1660200778124" duration="7196000" />
     </task>
     <servers />
   </component>
