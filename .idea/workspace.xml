@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c0a69e9-c366-4031-91ec-c6e4a79d0c23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BoxGame/BoxGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BoxGame/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BoxGame/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BoxGame/src/Ring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentInformationSystem/src/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentInformationSystem/src/Lesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentInformationSystem/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentInformationSystem/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentInformationSystem/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentInformationSystem/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/umith/IdeaProjects/javaoopexamples",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/umith/IdeaProjects/javaoopexamples&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\umith\IdeaProjects\javaoopexamples" />
@@ -52,10 +54,17 @@
       <recent name="C:\Users\umith\IdeaProjects\javaoopexamples\Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="StudentInformationSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BoxGame" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -84,7 +94,11 @@
       <updated>1660050426156</updated>
       <workItem from="1660050427710" duration="29000" />
       <workItem from="1660050495203" duration="7286000" />
-      <workItem from="1660200778124" duration="11190000" />
+      <workItem from="1660200778124" duration="11320000" />
+      <workItem from="1660223955793" duration="744000" />
+      <workItem from="1660286645670" duration="6137000" />
+      <workItem from="1660463687561" duration="383000" />
+      <workItem from="1660464088385" duration="3234000" />
     </task>
     <servers />
   </component>
