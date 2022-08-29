@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c0a69e9-c366-4031-91ec-c6e4a79d0c23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BoxGame/BoxGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoxGame/src/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoxGame/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BoxGame/src/Ring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoxGame/src/Fighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoxGame/src/Fighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoxGame/src/Ring.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoxGame/src/Ring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +95,9 @@
       <workItem from="1660223955793" duration="744000" />
       <workItem from="1660286645670" duration="6137000" />
       <workItem from="1660463687561" duration="383000" />
-      <workItem from="1660464088385" duration="3234000" />
+      <workItem from="1660464088385" duration="4184000" />
+      <workItem from="1660921992818" duration="3200000" />
+      <workItem from="1661803400613" duration="1516000" />
     </task>
     <servers />
   </component>

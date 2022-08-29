@@ -4,6 +4,7 @@ public class Fighter {
     int health;
     int weight;
     double dodge;
+    boolean control= true;
     public Fighter(String name, int damage, int health,int weight, double dodge){
         this.name = name;
         this.damage = damage;
@@ -32,5 +33,4 @@ public class Fighter {
         double randomNumber = Math.random() * 100; // 0 ile 100 arasında random sayı uretıyor
         return randomNumber <= this.dodge;
     }
-
 }
