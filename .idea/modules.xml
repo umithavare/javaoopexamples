@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BoxGame/BoxGame.iml" filepath="$PROJECT_DIR$/BoxGame/BoxGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarExample/CarExample.iml" filepath="$PROJECT_DIR$/CarExample/CarExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" filepath="$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaoopexamples.iml" filepath="$PROJECT_DIR$/.idea/javaoopexamples.iml" />
     </modules>
